@@ -1,0 +1,11 @@
+{
+	"epochs": 100,
+	"batch_size": 30,
+	"window_size": 0,
+	"train_test_split": 0.8,
+	"validation_split": 0.1,
+	"dropout_keep_prob": 0.2,
+	"hidden_unit": 128
+}
+
+
